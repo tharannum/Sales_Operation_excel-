@@ -69,6 +69,7 @@ Shows the total value of deals that reached the **Closed** stage.
 ## 3️⃣ **Sales Manager Report**
 
 Compares performance across sales managers.
+![Sales Manager Report](https://raw.githubusercontent.com/tharannum/Sales_Operation_excel-/main/sales_manager_report.jpg)
 
 **Metrics Included:**
 
@@ -159,7 +160,7 @@ This eliminates manual effort and reduces time spent preparing performance revie
 
 ## 3️⃣ **Sales Manager Report – Sector: Software**
 
-![Sales Manager Report](https://raw.githubusercontent.com/tharannum/Sales_Operation_excel-/main/sales_manager_report.jpg)
+![Sales Report Screenshot](https://raw.githubusercontent.com/tharannum/Sales_Operation_excel-/main/sales_report.jpg)
 
 
 *Filtered at 0:58*
