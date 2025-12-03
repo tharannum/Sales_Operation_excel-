@@ -159,6 +159,9 @@ This eliminates manual effort and reduces time spent preparing performance revie
 
 ## 3️⃣ **Sales Manager Report – Sector: Software**
 
+![Sales Manager Report](https://raw.githubusercontent.com/tharannum/Sales_Operation_excel-/main/sales_manager_report.jpg)
+
+
 *Filtered at 0:58*
 
 | Sales Manager   | Count of Opportunity ID | Avg Deal Won |
